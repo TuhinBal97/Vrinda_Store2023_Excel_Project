@@ -3,3 +3,7 @@ Welcome to my GitHub repository dedicated to data analysis projects! This reposi
 
 Projects :
 Project 1: [Vrinda Store Annual Report 2022]
+Files: 
+Vrinda Store 2022 Excel Project Dashboard.png
+Vrinda Store 2022 excel projects.pdf
+Vrinda Store Annual Report 2022.xlsx
